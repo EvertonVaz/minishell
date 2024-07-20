@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: codespace <codespace@student.42.fr>        +#+  +:+       +#+        */
+/*   By: etovaz <egeraldo@student.42sp.org.br>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/02/02 15:26:13 by egeraldo          #+#    #+#             */
 /*   Updated: 2024/02/05 18:57:56 by codespace        ###   ########.fr       */
